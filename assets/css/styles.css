@@ -1,0 +1,15 @@
+.login-page {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	margin: 0;
+}
+
+.login-form {
+	width: 250px;
+	margin: 200px auto;
+}
+
+.login-form input[type=text], .login-form input[type=password] {
+	width: 100%;
+	margin: 5px 0;
+}
